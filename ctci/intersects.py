@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# ctci 16.3
+
 class Point:
     def __init__(self, x, y):
         self.x = x

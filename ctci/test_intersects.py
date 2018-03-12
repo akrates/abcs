@@ -1,3 +1,5 @@
+# ctci 16.3
+
 from intersects import *
 
 segment1 = ((1,1), (4,4))
